@@ -84,35 +84,32 @@ TripCraft includes responsive layouts for desktop, tablet, and mobile screens, i
 
 ---
 
-## Screenshots
 
-The following screenshots will be added to demonstrate the application's interface and main features.
+## Screenshots
 
 ### Explore Page
 
-The main page where users enter their destination, travel style, trip duration, and interests.
+Plan a personalized trip by choosing a destination, duration, travel style, and interests.
 
-**Screenshot to add:** `docs/screenshots/explore.png`
+![TripCraft Explore Page](docs/screenshots/explore.png)
 
 ### Generated Itinerary
 
-A day-by-day itinerary showing suggested activities, times, descriptions, and editing controls.
+Explore a day-by-day travel itinerary with activity recommendations, approximate times, and descriptions.
 
-**Screenshot to add:** `docs/screenshots/itinerary.png`
+![TripCraft Generated Itinerary](docs/screenshots/itinerary.png)
 
 ### Activity Editor
 
-The custom popup used to add or edit itinerary activities.
+Customize an itinerary by editing activity names, times, categories, emojis, and descriptions.
 
-**Screenshot to add:** `docs/screenshots/activity-editor.png`
+![TripCraft Activity Editor](docs/screenshots/activity-editor.png)
 
 ### Saved Trips
 
-The page where users can reopen and manage previously saved itineraries.
+Save itineraries in the browser and reopen them whenever needed.
 
-**Screenshot to add:** `docs/screenshots/saved-trips.png`
-
-> Screenshots are not included in the repository yet. These filenames are placeholders for images to be added later.
+![TripCraft Saved Trips](docs/screenshots/saved-trips.png)
 
 ---
 
